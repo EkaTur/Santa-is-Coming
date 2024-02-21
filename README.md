@@ -4,7 +4,6 @@ Welcome to the Santa is Coming to Town project! This project creates a fun Chris
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -13,11 +12,6 @@ Welcome to the Santa is Coming to Town project! This project creates a fun Chris
 - Background music to get you in the Christmas mood.
 - Particle effects on the background.
 - Interactive button to play/pause the background music.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/santa-is-coming-to-town.git
 
 ## Usage
 Open index.html in your web browser.
