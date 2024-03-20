@@ -2,6 +2,10 @@
 
 Welcome to the Santa is Coming to Town project! This project creates a fun Christmas-themed countdown with particle effects and background music. Get ready for some holiday cheer!
 
+## Live Demo
+
+You can check out the live version of this website [here](https://santa-on-the-way.netlify.app/).
+
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
